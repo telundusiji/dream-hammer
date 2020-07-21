@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    active: cluster
+#    active: sentinel
+#    active: single-instance
