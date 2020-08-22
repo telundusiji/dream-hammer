@@ -15,3 +15,7 @@
 * module-5:带你读懂Spring事务——事务的传播机制
 
 * module-6:一起学习Redis之在Java中使用
+
+* module-7:一起学习Hive
+
+* module-8:一起学习Spark
